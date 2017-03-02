@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\bin\Debug\ColorMatch.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\bin\Debug\ColorMatch.exe
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\bin\Debug\ColorMatch.pdb
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.exe
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.pdb
+\\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.ColorMatch.resources
