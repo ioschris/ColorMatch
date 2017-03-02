@@ -7,3 +7,12 @@
 \\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.exe
 \\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.pdb
 \\mac\home\documents\visual studio 2015\Projects\ColorMatch\ColorMatch\obj\Debug\ColorMatch.ColorMatch.resources
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\bin\Debug\ColorMatch.exe.config
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.exe
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.pdb
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\bin\Debug\ColorMatch.exe
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\bin\Debug\ColorMatch.pdb
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.csprojResolveAssemblyReference.cache
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.ColorMatch.resources
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.Properties.Resources.resources
+Z:\Users\Chris\GitHub\ColorMatch\ColorMatch\ColorMatch\obj\Debug\ColorMatch.csproj.GenerateResource.Cache
