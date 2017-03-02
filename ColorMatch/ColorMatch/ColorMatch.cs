@@ -26,8 +26,8 @@ namespace ColorMatch
         bool captureColor = false;
 
         //Color Properties and Variables
-        System.Windows.Media.Color myColor;
-        System.Drawing.Color customColor;
+        public static System.Windows.Media.Color myColor { get; set; }
+        public static System.Drawing.Color customColor { get; set; }
         public static System.Drawing.Color capturedColor { get; set; }
 
         #endregion
