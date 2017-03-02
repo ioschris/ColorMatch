@@ -4,3 +4,8 @@ ColorMatch is a simple project created in C# to show users the functionality of 
 
 #Screenshots
 
+![ScreenShot](http://i67.tinypic.com/20u7p74.png)
+
+![ScreenShot](http://i65.tinypic.com/yl2k4.png)
+
+![ScreenShot](http://i66.tinypic.com/sc5lao.png)
